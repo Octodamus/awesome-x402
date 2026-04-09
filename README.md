@@ -289,7 +289,7 @@ Full working examples and templates.
 - [x402engine](https://x402engine.app) - Pay-per-call API gateway with 74 endpoints: 44 LLMs, image/video generation, crypto data, web search, code execution, TTS, travel, and IPFS. Multi-chain: USDC on Base, USDm on MegaETH, USDC on Solana. Discovery: [/.well-known/x402.json](https://x402engine.app/.well-known/x402.json) | [/.well-known/agent.json](https://x402engine.app/.well-known/agent.json). ([GitHub](https://github.com/agentc22/x402-engine)) | ([MCP](https://www.npmjs.com/package/x402engine-mcp))
 - [Trading Intelligence API](https://api.signalfuse.co) — Directional crypto trading signals fusing social sentiment, macro regime, and market structure. $0.001–$0.050 USDC per call on Base. 25 free credits per wallet. [Landing](https://signalfuse.co)
 
-  - [Octodamus Market Intelligence](https://api.octodamus.com/v2/agent-signal) - Real-time crypto Oracle signals (9/11 consensus), Fear & Greed index, and Polymarket edge
+- [Octodamus Market Intelligence](https://api.octodamus.com/v2/agent-signal) - Real-time crypto Oracle signals (9/11 consensus), Fear & Greed index, and Polymarket edge
   plays with EV scoring. $29 USDC/year or $5 USDC/7-day trial on Base. Single-call `/v2/agent-signal` returns action/confidence/signal/polymarket_edge/reasoning — designed
   for 15-min agent poll cycles. x402 native, ERC-8004 registered. ([Docs](https://api.octodamus.com/docs)) ([llms.txt](https://api.octodamus.com/llms.txt))
   ([MCP](https://smithery.ai/server/octodamusai/market-intelligence))
